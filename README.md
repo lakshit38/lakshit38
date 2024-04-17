@@ -1,7 +1,7 @@
 <img src = "https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" align = "top-right" width = "1000" height = "250" style = "margin-left: 100px">
 
 ## 💫 About Me:
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif" alt="Profile Image" align="right" width="250" height = "150" style="margin-left: 200px; border-radius: 10px;" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif" alt="Profile Image" align="right" width="200" height = "100" style="margin-left: 200px; border-radius: 10px;" />
 👋 Hi I'm Lakshit Gola!<br>🎓 Currently pursuing Bachelor's in Computer Science and Technology<br>🔭 I love to explore the field of Data Science and Fintech<br>📝 I’m currently learning about GAN's<br>
 
 
